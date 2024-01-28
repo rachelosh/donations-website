@@ -1,0 +1,13 @@
+ul {
+    list-style-type: none;
+
+}
+
+nav,
+li,
+ul {
+    direction: rtl;
+    display: flex;
+    font-size: xx-large;
+    margin: auto;
+}
